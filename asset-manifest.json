@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/baejimil/rockscissorpaper2/static/css/main.24172b18.css",
+    "main.js": "/baejimil/rockscissorpaper2/static/js/main.c31946e1.js",
+    "static/js/453.27d6c573.chunk.js": "/baejimil/rockscissorpaper2/static/js/453.27d6c573.chunk.js",
+    "index.html": "/baejimil/rockscissorpaper2/index.html",
+    "main.24172b18.css.map": "/baejimil/rockscissorpaper2/static/css/main.24172b18.css.map",
+    "main.c31946e1.js.map": "/baejimil/rockscissorpaper2/static/js/main.c31946e1.js.map",
+    "453.27d6c573.chunk.js.map": "/baejimil/rockscissorpaper2/static/js/453.27d6c573.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24172b18.css",
+    "static/js/main.c31946e1.js"
+  ]
+}
