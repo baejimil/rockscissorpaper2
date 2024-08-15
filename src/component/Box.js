@@ -26,7 +26,3 @@ const Box = (props) => {
 }
 
 export default Box
-
-// "homepage": "https://github.com/baejimil/rockscissorpaper2",
-// "predeploy": "npm run build",
-    // "deploy": "gh-pages -d build",
